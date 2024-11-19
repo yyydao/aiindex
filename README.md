@@ -1,4 +1,4 @@
 # aiindex data backup
 
-sync data here
+sync https://aiindex.tools/ data here
 
